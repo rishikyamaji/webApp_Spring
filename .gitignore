@@ -13,6 +13,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.metadata
+*.recommenders
+RemoteSystemsTempFiles
+Servers
 
 # Windows shortcuts
 *.lnk
